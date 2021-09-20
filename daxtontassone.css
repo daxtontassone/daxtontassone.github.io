@@ -1,6 +1,10 @@
 body {
+     
      background-color: rgb(34, 139, 34);
      }
 h1 { 
      background-color: rgb(65, 105, 225);
      }
+* {
+     margin: 2;
+}
