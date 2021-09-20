@@ -4,3 +4,6 @@ body {
 h1 { 
      background-color: rgb(65, 105, 225);
      }
+p {
+     font-size: 20px
+}
